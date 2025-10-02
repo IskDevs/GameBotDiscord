@@ -1,0 +1,17 @@
+{
+  "name": "discord-casino-bot-node17",
+  "version": "1.2.0",
+  "description": "Discord casino bot with Slots, Blackjack, Dice, Mines, Roulette + per-user bet selection and MySQL persistence (Node 17 compatible).",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node deploy-commands.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.11.3"
+  }
+}

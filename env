@@ -1,0 +1,14 @@
+
+# MySQL connection (from your host UI)
+DB_HOST=
+DB_PORT=
+DB_USER=
+DB_PASS=
+DB_NAME=
+
+# Copy this to .env and fill in your values
+DISCORD_TOKEN=
+CLIENT_ID=
+# Optional: fast command registration to a single server (recommended while testing)
+GUILD_ID=
+ADMIN_SECRET=
